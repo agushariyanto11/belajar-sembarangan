@@ -1,3 +1,3 @@
 BELAJAR GITHUB
 -Dasar teori github
--Praktek Github
+-Cara-Cara penggunaan simple github
