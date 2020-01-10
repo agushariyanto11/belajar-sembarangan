@@ -1,2 +1,2 @@
-# belajar-github
+# belajar-sembarang
 pembelajaran tentang github
